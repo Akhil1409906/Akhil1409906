@@ -18,7 +18,7 @@
 - **[Medical Insurance Fraud Detection](https://github.com/Akhil1409906/insurance-fraud-detection)**: Python-powered logistic regression model for identifying fraudulent claims.  
 
 ### 🛠️ Skills  
-- **Programming Languages**: Python, SQL  
+- **Programming Languages**: Python, SQL  , MY Sql ,HTML,CSS 
 - **Frameworks & Libraries**: TensorFlow, PyTorch, Pandas, NumPy, OpenCV, Flask  
 - **Tools**: Jupyter Notebook, Visual Studio Code, Git  
 
