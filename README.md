@@ -4,7 +4,7 @@
 - 🌱 **I’m currently learning** advanced AI concepts, YOLOv8-based detection systems, Python libraries (like TensorFlow, PyTorch, Pandas, etc.), and deploying ML models using Flask.  
 - 💞️ **I’m looking to collaborate on** innovative projects in AI/ML, Python-based solutions, and hybrid deep learning models for real-world applications.  
 - 📫 **How to reach me**:  
-  - **Email**: akhil1409906@gmail.com  
+  - **Email**: akhiletikala19@gmail.com  
   - **LinkedIn**: [Akhil's LinkedIn](https://linkedin.com/in/your-profile)  
   - **GitHub**: [@Akhil1409906](https://github.com/Akhil1409906)  
 
