@@ -5,7 +5,7 @@
 - **I’m looking to collaborate on** innovative projects in AI/ML, Python-based solutions, and hybrid deep learning models for real-world applications.  
 -  **How to reach me**:  
   - **Email**: akhiletikala19@gmail.com  
-  - **LinkedIn**: [Akhil's LinkedIn](https://linkedin.com/in/your-profile)  
+  - **LinkedIn**: [Akhil's LinkedIn](www.linkedin.com/in/akhil-etikala-546a04226)  
   - **GitHub**: [@Akhil1409906](https://github.com/Akhil1409906)  
 
 -  **Pronouns**: He/Him  
